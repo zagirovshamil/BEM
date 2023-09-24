@@ -48,6 +48,12 @@ body {
   outline-offset: 3px;
 }
 
+/* Модификатор желтого цвета */
+
+.btn_yellow {
+  background-color: #ffb800;
+}
+
 /* Рейтинг */
 /* .блок__элемента */
 
